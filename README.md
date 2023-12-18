@@ -1,1 +1,1 @@
-# spatial_kidney_review
+# Spatial Kidney Review R code and spatial file
